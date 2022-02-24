@@ -1,0 +1,43 @@
+* {
+  margin:0;
+}
+
+h3 + p, h4 + p {
+  text-align: justify;
+}
+ul li a {
+  text-decoration: none;
+  padding:10px 30px;
+}
+ul {
+  list-style: none;
+}
+ul li {
+  float:left;
+}
+footer {
+  text-align: center;
+  background-color: gainsboro;
+}
+h3, h4 {
+  text-align: center;
+  padding:20px;
+}
+section {
+  padding: 30px;
+}
+h1 {
+  padding:20px;
+}
+p {
+  padding:20px;
+}
+#home {
+  background-color: aliceblue;
+}
+#about {
+  background-color: antiquewhite;
+}
+#contact {
+  background-color: antiquewhite;
+}
